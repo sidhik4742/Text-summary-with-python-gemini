@@ -21,8 +21,7 @@ It provides two endpoints:
 
 - Python 3.10+
 - Flask
-- Google Gemini Python client (`gemini` or `google-generative-ai` depending on installation)
-- Other dependencies (see `requirements.txt`)
+- Google Gemini Python client (`gemini`)
 
 ---
 
